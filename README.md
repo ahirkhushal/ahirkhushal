@@ -24,7 +24,7 @@
   </div>
 </div>
 
-<p style="margin: 0 auto">
+<p style="margin: 10px auto">
   <a href="https://github.com/ahirkhushal/ahirkhushal" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ahirkhushal&hide=java,html,php,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
