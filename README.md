@@ -24,9 +24,11 @@
   </div>
 </div>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://github-stats-alpha.vercel.app/api?username=ahirkhushal&cc=1d1f21&tc=fff&ic=fff&bc=0000" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahirkhushal&layout=compact&theme=dark&hide_border=true" width="49%" />
+<div align="center" style="background: rgba(30,30,30,0.95); padding: 25px; border-radius: 15px; margin: 20px 0; border: 1px solid #38B2AC;">
+  <div style="display: flex; align-items: stretch; justify-content: center; gap: 10px;">
+    <img src="https://github-stats-alpha.vercel.app/api?username=ahirkhushal&cc=1d1f21&tc=fff&ic=fff&bc=0000" width="49%" style="min-height: 195px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahirkhushal&layout=compact&theme=dark&hide_border=true" width="49%" style="min-height: 195px;" />
+  </div>
 </div>
 
 <div style="background: linear-gradient(135deg, #1d1f21 0%, #2c3e50 100%); padding: 30px; border-radius: 20px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
