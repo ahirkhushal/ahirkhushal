@@ -24,12 +24,12 @@
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 30px 0;">
-  <div style="background: #1d1f21; padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
-    <img src="https://github-stats-alpha.vercel.app/api?username=ahirkhushal&cc=1d1f21&tc=fff&ic=fff&bc=0000" width="100%" />
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 15px 0;">
+  <div style="background: #1d1f21; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+    <img src="https://github-stats-alpha.vercel.app/api?username=ahirkhushal&cc=1d1f21&tc=fff&ic=fff&bc=0000" width="80%" />
   </div>
-  <div style="background: #1d1f21; padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(0,0,0,0.2);">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahirkhushal&layout=compact&theme=dark&hide_border=true" width="100%" />
+  <div style="background: #1d1f21; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahirkhushal&layout=compact&theme=dark&hide_border=true" width="80%" />
   </div>
 </div>
 
