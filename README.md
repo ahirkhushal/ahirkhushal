@@ -24,11 +24,11 @@
   </div>
 </div>
 
-<div style="display: flex; gap: 10px; margin: 15px 0;">
-  <div style="background: #1d1f21; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center; width: 50%;">
+<div style="display: flex; justify-content: space-between; align-items: center; margin: 15px 0;">
+  <div style="background: #1d1f21; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2); width: 49%;">
     <img src="https://github-stats-alpha.vercel.app/api?username=ahirkhushal&cc=1d1f21&tc=fff&ic=fff&bc=0000" width="100%" />
   </div>
-  <div style="background: #1d1f21; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2); width: 50%;">
+  <div style="background: #1d1f21; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2); width: 49%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahirkhushal&layout=compact&theme=dark&hide_border=true" width="100%" />
   </div>
 </div>
