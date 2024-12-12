@@ -24,6 +24,8 @@
   </div>
 </div>
 
+<br />
+
 <p style="margin: 10px auto">
   <a href="https://github.com/ahirkhushal/ahirkhushal" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ahirkhushal&hide=java,html,php,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
@@ -34,6 +36,8 @@
   </a>
 
  </p>
+
+ <br />
 
 <div style="background: linear-gradient(135deg, #1d1f21 0%, #2c3e50 100%); padding: 30px; border-radius: 20px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
   <img src="https://github-profile-trophy.vercel.app/?username=ahirkhushal&theme=darkhub&row=1&column=7&margin-w=15&no-frame=true" style="width: 100%;" />
