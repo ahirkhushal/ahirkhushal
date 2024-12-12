@@ -24,7 +24,7 @@
   </div>
 </div>
 
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img src="https://github-stats-alpha.vercel.app/api?username=ahirkhushal&cc=1d1f21&tc=fff&ic=fff&bc=0000" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahirkhushal&layout=compact&theme=dark&hide_border=true" width="49%" />
 </div>
