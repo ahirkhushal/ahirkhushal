@@ -24,13 +24,13 @@
   </div>
 </div>
 
-<p>
-  <a href="https://github.com/hironate/hironate" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=hironate&hide=java,html,php,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+<p style="margin: 0 auto">
+  <a href="https://github.com/ahirkhushal/ahirkhushal" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ahirkhushal&hide=java,html,php,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
   
-  <a href="https://github.com/hironate/hironate" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hironate&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hironate's GitHub Stats" height="180px"/>
+  <a href="https://github.com/ahirkhushal/ahirkhushal" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahirkhushal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Khushal's GitHub Stats" height="180px"/>
   </a>
 
  </p>
